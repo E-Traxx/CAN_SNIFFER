@@ -1,4 +1,5 @@
 # CAN Sniffer
+Forked / Copied / Based on BAT-MAN (Thats why there's remnants of BAT-MAN sprinkled everywhere)
 
 ESP-IDF firmware that turns an ESP32-S3 into a passive CAN bus sniffer using an SN65HVD230 transceiver. Incoming frames are streamed to a host UI over the on-board USB Serial JTAG interface as newline-delimited JSON.
 
